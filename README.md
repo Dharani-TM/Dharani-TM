@@ -1,6 +1,5 @@
 ## Hi, I'm Dharani T 
-
-## AI & Full Stack Developer
+AI & Full Stack Developer
 <!--
 **Dharani-TM/Dharani-TM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
