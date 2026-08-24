@@ -1,4 +1,4 @@
-## Hi, I'm Dharani T 
+## Hi, I'm Dharani T ✨
 AI & Full Stack Developer
 I’m focused on Java, Data Structures & Algorithms, Machine Learning, and Web Development, with a strong emphasis on solving complex problems using efficient algorithms and thoughtful approaches. Passionate about turning ideas into scalable, practical, and modern applications.
 <!--
